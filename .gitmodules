@@ -1,0 +1,15 @@
+[submodule "kalman"]
+	path = kalman
+	url = git@github.com:yma2022/ai4r_pr1.git
+[submodule "particle"]
+	path = particle
+	url = git@github.com:yma2022/ai4r_pr2.git
+[submodule "pid"]
+	path = pid
+	url = git@github.com:yma2022/ai4r_pr3.git
+[submodule "search"]
+	path = search
+	url = git@github.com:yma2022/ai4r_pr4.git
+[submodule "SLAM"]
+	path = SLAM
+	url = git@github.com:yma2022/ai4r_pr5.git
